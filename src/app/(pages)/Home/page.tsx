@@ -84,7 +84,7 @@ const Home = () => {
     };
 
     return (
-        <div className="p-4">
+        <div className="p-4 gradient-bg">
             <Link href="/Room">Subject</Link>
 
             <ul>
